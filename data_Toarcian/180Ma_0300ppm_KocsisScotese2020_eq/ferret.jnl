@@ -1,0 +1,6 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v6.95  
+ ! Linux 2.6.32-573.7.1.el6.x86_64 64-bit - 10/27/15
+ !  5-Jul-22 10:09     
+
+GO "$HOME/.ferret"
